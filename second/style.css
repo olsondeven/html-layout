@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+body{
+  margin: 0;
+}
+.column-blue{
+  height: 100vh;
+  background-color: rgb(76, 130, 201);
+  width: 33vw;
+  display: inline-block;
+  float: left;
+}
+.column-green{
+  background-color: rgb(37, 176, 163);
+  display: inline-block;
+  height: 100vh;
+  width: 33vw;
+  float: left;
+}
+.column-back{
+  background-color: rgb(159, 194, 84);
+  display: inline-block;
+  height: 70vh;
+  width: 33vw;
+  float: left;
+}
+.column-yellow{
+  background-color: rgb(159, 194, 84);
+  height: 112.8%;
+  width: 33vw;
+}
+.red-box{
+  background-color: rgb(204, 35, 35);
+  width: 33vw;
+  height: 30%;
+  text-align: center;
+  padding-top: 90px;
+}
+.white-text{
+  font-size: 300%;
+  color: white;
+}
