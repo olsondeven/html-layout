@@ -1,0 +1,51 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+body{
+  margin: 0;
+}
+.column-white{
+  height: 38.8vh;
+  background-color: white;
+  width: auto;
+  margin-top: 15px;
+  margin-left: 25px;
+}
+.blue-box-white{
+  height: 10vh;
+  width: 10vh;
+  background-color: rgb(31, 131, 180);
+}
+.par-white{
+  padding-top: 20px;
+  color: black;
+  font-size: 300%;
+  font-style: normal;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+.column-blue{
+  height: 15vh;
+  width: auto;
+  background-color: rgb(31, 131, 180);
+  width: auto;
+}
+.column-green{
+  height: 15vh;
+  width: auto;
+  background-color: rgb(17, 223, 186);
+  width: auto;
+}
+.column-green-yellow{
+  height: 15vh;
+  width: auto;
+  background-color: rgb(137, 161, 116);
+  width: auto;
+}
+.column-yellow{
+  height: 15vh;
+  width: auto;
+  background-color: rgb(235, 240, 11);
+  width: auto;
+}
