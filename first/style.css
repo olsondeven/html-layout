@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+  background-color: #eeeeee;
+}
+.header{
+  height: 15vh;
+  background-color: black;
+}
+.main{
+  height: 75vh;
+  width: 80%;
+  margin: auto;
+  background-color: #ffffff;
+}
+.footer{
+  height: 10vh;
+  background-color: black;
+  margin:auto;
+  width: 80%;
+}
